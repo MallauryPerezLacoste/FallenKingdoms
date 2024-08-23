@@ -1,0 +1,9 @@
+commands\addPlayerToTeam.class
+custom_items\fallenKingdoms\FallenKingdoms.class
+commands\createTeam.class
+commands\forceAddPlayerToTeam.class
+utils\TeamManager.class
+commands\removePlayerFromTeam.class
+utils\Team.class
+commands\removeTeam.class
+commands\showTeamsInfos.class
