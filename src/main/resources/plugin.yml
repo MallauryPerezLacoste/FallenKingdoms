@@ -1,0 +1,4 @@
+name: FallenKingdoms
+version: '1.0-SNAPSHOT'
+main: custom_items.fallenKingdoms.FallenKingdoms
+api-version: '1.21'
